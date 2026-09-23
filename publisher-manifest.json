@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6964cab3eaecffffe17b4007",
+  "owner": "tajavaq",
+  "repo": "page-d0be33bec9f34e29edbdef05",
+  "title": "火箭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d0be33bec9f34e29edbdef05",
+      "a": "火箭云",
+      "b": "2027最新官网",
+      "entity": "火箭云",
+      "brand": "火箭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a3a93dc96a56200ab1dcb559c833f7700aa896a6baa9d34441e46711a8833485",
+      "content": {
+        "primary_entity": "火箭云",
+        "keyword1": "火箭云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择合适套餐，配置订阅后开始使用。",
+          "AI_CLOSING_TITLE": "选择适合你的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求，全节点支持流媒体解锁，旗舰版与团队版配备专线级优化与优先支持。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开说明。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "可按月付或年付，年付价格更优，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TEXT_3": "全节点支持流媒体解锁，旗舰版与团队版额外提供 IPLC 专线与 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "年付更省",
+          "AI_FEATURE_TITLE_3": "节点与带宽",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "火箭云提供多档订阅套餐，满足个人与团队的上网加速需求。基础版适合轻度使用，旗舰版兼顾流量与速度，团队版面向多设备高带宽场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "全节点流媒体解锁",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与价格，选择符合使用场景的方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备限制与节点权益，确认满足使用要求。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入说明完成配置，保持订阅更新以获取节点信息。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "火箭云套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内的个人日常使用，每月100GB流量，解锁基础流媒体。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，含IPLC专线，适合对游戏延迟敏感或需要全节点流媒体解锁的用户。",
+          "AI_FAQ_ANSWER_3": "全年流量需求较大时，团队版每月1000GB与20台设备数更匹配，还支持企业定制路由。",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，按所用客户端文档导入配置即可，不同客户端的导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "月付灵活，年付价格更低，基础版年付150元、旗舰版350元、团队版850元，长期使用可优先考虑年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么设备数量的用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "购买后怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4s8xb18xn56a.com",
+    "host": "xn--9kqy4s8xb18xn56a.com"
+  },
+  "file_hashes": {
+    "index.html": "72b6c38e5a6fb24c4e2cbc0f39d746dbb249a404fa9063ff1c8b6faadc272bbd",
+    "sitemap.xml": "6a912a9b531585d30669079d6943cc20147a4fe89f43004dfc078d5819816254",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a08b2fa194acb58929de87c46fce129042df153518234c2536088c1361b0df04",
+    "robots.txt": "a2cdef0f0d8e62a6366da8a74e7f348616615c4a5f04add5aaa09ecdc2fdb7fe",
+    "44e5bf5a20f7f3938eed5a26ab3f1da7.txt": "97af85fc84e334f2a1a6c4833f946744321b0a155bad6244a7cfa8377b847def"
+  },
+  "revision": "ea168ee70111c0a62c8173d5f0431b899e401daa1f4e87fa0bd837c046023e2f"
+}
